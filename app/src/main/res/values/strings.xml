@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MiDirectorio</string>
+    <string name="nombreCompleto">Nombre completo</string>
+    <string name="fechaNacimiento">Fecha nacimiento</string>
+    <string name="texto_boton_fechaNacimiento">Seleccionar Fecha de Nacimiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">E-mail</string>
+    <string name="descripcionContacto">Descripción contacto</string>
+    <string name="descripcion">Descripción: </string>
+    <string name="texto_boton_siguiente">Siguiente</string>
+    <string name="err_msg_nombreCompleto">Introduce tu nombre</string>
+    <string name="err_msg_fechaNacimiento">Selecciona tu fecha de nacimiento</string>
+    <string name="err_msg_email">Introduce tu correo electrónico</string>
+    <string name="err_msg_email_valido">Introduce un correo electrónico válido</string>
+    <string name="err_msg_telefono">Introduce tu teléfono</string>
+    <string name="err_msg_telefono_valido">Introduce un teléfono válido</string>
+    <string name="texto_boton_editar">Editar datos</string>
+    <string name="texto_confirmar_datos">Confirmar datos</string>
+    <string name="pNombre">pNombre</string>
+    <string name="pFechaNacimiento">pFechaNacimiento</string>
+    <string name="pTelefono">pTelefono</string>
+    <string name="pEmail">pEmail</string>
+    <string name="pDescripcion">pDescripcion</string>
+
+</resources>
